@@ -1,0 +1,26 @@
+What is Dart?
+Dart is an open-source, object-oriented programming language developed by Google. It is mainly used for building mobile, web, and desktop applications. Dart is the primary language for Flutter, a popular UI framework for creating cross-platform applications.
+
+Features of Dart
+Object-Oriented – Supports classes, interfaces, and mixins.
+Compiled & Interpreted – Can be compiled to native code for better performance or run in a VM for development.
+Strong Typing – Supports both static and dynamic typing.
+Garbage Collection – Automatic memory management.
+Asynchronous Programming – Uses async and await for non-blocking code execution.
+Hot Reload – Allows fast updates in Flutter development.
+Platform Independence – Runs on multiple platforms (mobile, web, desktop).
+Null Safety – Helps prevent null reference errors.
+Rich Standard Library – Provides built-in support for collections, async, and more.
+Advantages of Dart
+✅ Fast Development – Hot reload makes it easier to test and iterate code.
+✅ High Performance – Ahead-of-Time (AOT) compilation improves execution speed.
+✅ Cross-Platform – Write code once and run it on multiple platforms.
+✅ Rich UI Development – Works seamlessly with Flutter to create beautiful UI.
+✅ Easy to Learn – Syntax is simple and similar to JavaScript and Java.
+✅ Strong Community & Google Support – Actively maintained by Google.
+
+Disadvantages of Dart
+❌ Limited Adoption – Not as popular as JavaScript, Python, or Java.
+❌ Large App Size – Flutter apps built with Dart tend to be larger in size.
+❌ Limited Third-Party Libraries – Fewer libraries compared to JavaScript or Python.
+❌ Less Support for Native Features – May require additional plugins for full native functionality.
