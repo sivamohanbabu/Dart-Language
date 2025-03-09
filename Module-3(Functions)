@@ -1,1 +1,92 @@
 
+// Module-3
+//Functions and collections 1. defining functinos 2.names and optional parameters ,list and iterators , maps and sets
+//Module-OOPS-4
+//classes and objects, constuctors and named  constuctors 
+//Inheritance and method overriding
+//abstract classes and interfaces
+//mixis and extenstions
+//Module-5
+//try and catch -finally blocks
+//throwing exceptions
+//understaing null safty
+//Module-6
+//Asynchonus - future and async and await . streams and event handling , isolates for concurrency
+
+//Module-7 // packages ,libraries
+//Module-8 - weba nd backend development, Creation of Rest API'S
+//Module-9 - dart and flutter intro
+//Basic function
+// void greet(){
+//   print("Hello world");
+// }
+// void main(){
+//  greet();
+// }
+// void add(int a ,int b ){
+//   print(a+b);
+// }
+// void main(){
+// add(4,5);
+// }
+//Named parameters makes functional calls easy
+
+
+// void introduce({String? name, int? age}){
+//   print("My name is : $name,Age is :$age");
+// }
+// void main(){
+//   introduce(name:"hi",age :23);
+// }
+
+// void main(){
+//   List<String> fruits = ["Apple","Banna","Kiwi"];
+//   print(fruits);
+//   print(fruits[0]);
+//    fruits.remove(fruits[0]);
+//      print(fruits);
+// }
+
+// void main(){
+//   Map Employeedata = {
+//     "Name":"Hi",
+//     "age":23,
+//     "salary":123142,
+//     "role":"developer"
+//   };
+//   print(Employeedata );
+//   print(Employeedata['age']);
+//   Employeedata['role'] = "testing ";
+//   print(Employeedata);
+//   Employeedata.remove("age");
+//    print(Employeedata);
+// }
+//forEach method
+// void main(){
+//   Map ages = {
+//     "john":34,
+//     "doe":56,
+ 
+//   };
+//   ages.forEach((key,value){
+//     print("$key is $value years old");
+//   });
+  
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
