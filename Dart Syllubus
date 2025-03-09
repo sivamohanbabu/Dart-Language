@@ -1,0 +1,49 @@
+DART AND INTRODUCTION
+//modren and scalable 
+//google
+//web & mobile
+//pre requisites to learn flutter 
+//cross plotforms
+
+
+//optimisation : design beatiful and high performance
+// cross platform
+// Just in time (JIT) - production 
+
+//easy to learn  -- >java,javascript #c
+//static and dynamic typing 
+//server side (Backend)-- dart frog and aqueduct
+
+// Module-1
+// what is dart?
+// oop,c-style syntax
+//Asynchorouns programming (refer) exp: mobile app, 
+//sync- trail way ticket,Resturent order placing
+//extensions and mixins
+// function programming elements
+
+// ----------flutter ------ dart web or angualr dart, BE, CLI Tools
+//Module-2
+//Basics of darts
+//variables and data types 
+// operators
+//control flow - if-else, switch
+//loops -for while do-while
+// Module-3
+//Functions and collections 1. defining functinos 2.names and optional parameters ,list and iterators , maps and sets
+//Module-OOPS-4
+//classes and objects, constuctors and named  constuctors 
+//Inheritance and method overriding
+//abstract classes and interfaces
+//mixis and extenstions
+//Module-5
+//try and catch -finally blocks
+//throwing exceptions
+//understaing null safty
+//Module-6
+//Asynchonus - future and async and await . streams and event handling , isolates for concurrency
+
+//Module-7 // packages ,libraries
+//Module-8 - weba nd backend development, Creation of Rest API'S
+//Module-9 - dart and flutter intro
+//flutter roles in dart , basic widges, statemanagment , dart in flutter apps
