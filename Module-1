@@ -1,0 +1,95 @@
+//.......................................1.variables.............................. 
+// void main(){
+//   //explicit
+//   int age = 45;
+//   double price = 78.99;
+//   String name = "Hello";
+//   bool isActive = true;
+  
+//   //implicit 
+//   var city = "hyd";
+//   var lang = "eng";
+  
+//   dynamic data = "hello";
+//     print(data);
+//   print(age);
+//   print(lang);
+//   print(price);
+//   print(city);
+//   print(name);
+//   print(isActive);
+// }
+
+//void - to return the function 
+//main- top level function
+//print- display text on the console
+
+//............................................2.Data types.................................................
+//int -interger values,
+//double- float values ,
+//String- text values,
+//bool-Boolen values (True/Flase),
+//List (Collection of orderd elements),
+//Map(Key-value pairs),
+//Set(Unique Collection),
+//dynamic(can hold any type of value)
+//int and double - whole and decimal
+// void main(){
+//   //int & double
+//  int x = 30;
+//  double y = 56;
+//   print(x);
+//   print(y);
+  
+// }
+//string
+// void main(){
+//   String name = "Hyderabad";
+//   print(name);
+// }
+//Boolen
+// void main(){
+//    String name = "Hyderabad";
+//   bool names = true;
+//   print("Name is:$name,It's :$names");
+ 
+  
+// }
+
+//
+// void main(){
+//   List<int> numbers = [12,14,15,16];
+//   List<String> names = ["hyd","banglore","chennai"];
+//   print("$numbers,$names");
+// }
+
+// void main(){
+// //   List<int> numbers = [12,14,15,16];
+//   List<String> names = ["hyd","banglore","chennai"];
+//   names.remove("hyd");
+//   print(names);
+// }
+//sets
+// void main(){
+//   Set<int> u_numbers = {1,2,3,4};
+//   print(u_numbers);
+// }
+//map 
+// void main(){
+//   Map students = {
+//     "name" :"shiva",
+//    "age":"21"
+//   };
+//   print("$students['name'], $students['age']");
+// }
+//dynamic
+
+// void main(){
+//   dynamic name = "hello";
+//   dynamic age = 45;
+//   print(age);
+// }
+
+
+
+  
